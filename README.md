@@ -18,3 +18,8 @@ Maintain optimal health by keeping track of your daily water intake. The Hydrati
 
 In summary, WellnessHub is not just a program; it's your personalized well-being companion, designed to support you in achieving a healthier and more balanced lifestyle. Embrace the synergy of fitness planning, task management, motivation, self-reflection, and hydration tracking as you embark on your journey towards total well-being.
 
+Contributers:
+Mehreen,  
+Azka Ahmad,   
+Rimsha Nosheen
+
